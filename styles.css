@@ -140,28 +140,28 @@
   border-radius: 50px;
   width: 100px;
   height: 100px;
-  background: url('/img/img-1.jpeg') center center no-repeat transparent;
+  background: url('img-1.jpeg') center center no-repeat transparent;
   background-size: cover;
 }
 
 .ingredients__list-img_img-2 {
-  background: url('/img/img-2.jpeg') center center no-repeat transparent;
+  background: url('img-2.jpeg') center center no-repeat transparent;
 }
 
 .ingredients__list-img_img-3 {
-  background: url('/img/img-3.jpeg') center center no-repeat transparent;
+  background: url('img-3.jpeg') center center no-repeat transparent;
 }
 
 .ingredients__list-img_img-4 {
-  background: url('/img/img-4.jpeg') center center no-repeat transparent;
+  background: url('img-4.jpeg') center center no-repeat transparent;
 }
 
 .ingredients__list-img_img-5 {
-  background: url('/img/img-5.jpeg') center center no-repeat transparent;
+  background: url('img-5.jpeg') center center no-repeat transparent;
 }
 
 .ingredients__list-img_img-6 {
-  background: url('/img/img-6.jpeg') center center no-repeat transparent;
+  background: url('img-6.jpeg') center center no-repeat transparent;
 }
 
 /* reviews */
@@ -265,7 +265,7 @@
   margin-right: 10px;
   height: 451px;
   width: 250px;
-  background: url('/img/doctor.png') center center no-repeat transparent;
+  background: url('doctor.png') center center no-repeat transparent;
   background-size: cover;
 }
 
